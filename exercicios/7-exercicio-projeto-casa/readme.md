@@ -1,6 +1,6 @@
 # Exercício de contribuição em um projeto usando fork
 
-- Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [On13-TodasEmTech_Git](https://github.com/reprograma/On13_TodasEmTech_Git). 
+- Para realizar esse projeto, precisamos fazer um fork do repositório da {reprograma} [on20-tet-s1-gi-github](https://github.com/reprograma/on20-tet-s1-git-github). 
 Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-TodasEmTech_Git/blob/86ae350c27a4760f5fddf86b006cfcfa3f6b7e6c/conteudo/sobre-fork.md)
 
 ### Instruções
@@ -34,9 +34,9 @@ Para saber mais sobre fork, [leia aqui](https://github.com/reprograma/On13-Todas
       <div class="container__aluna">
         <a href="https://github.com/itsalle" target="_blank">
           <img class="container__aluna-img" src="https://avatars2.githubusercontent.com/u/41296983?s=460&u=d69e452fb89212415aca4769125d7efb7fc52727&v=4"
-            alt="Paula Allemand">
+            alt="Thiele Nunes">
         </a>
-        <p>Paula Allemand</p>
+        <p>Thiele Nunes</p>
       </div>
     ```
 
