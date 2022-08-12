@@ -1,6 +1,6 @@
-# On13-TodasEmTech-s1-git
+# On20-TodasEmTech-s1-git
 
-Turma Online 13 - Todas em Tech  | Front-end | 2021 | Conceitos Introdutórios e Git
+Turma Online 20 - Todas em Tech  | Front-end | 2022 | Conceitos Introdutórios e Git
 
 Esse conteúdo foi feito com referência e cópia nos seguintes materiais:
  - [Turma Online 1 - Github](https://github.com/reprograma/CursoOnline-Aula3-Git-and-Github)
@@ -11,7 +11,7 @@ Esse conteúdo foi feito com referência e cópia nos seguintes materiais:
  - [Turma 6 - Github](https://github.com/reprograma/github)
  - [Ramificação git](https://git-scm.com/book/pt-br/v1/Ramifica%C3%A7%C3%A3o-Branching-no-Git-O-que-%C3%A9-um-Branch)
 
-## [Conteúdo - 21/08/2021](#conteúdo)
+## [Conteúdo - 13/08/2022](#conteúdo)
 ### Resumo
 Nessa aula veremos? 
 * [Conceitos Introdutórios](#conceitos-introdutórios)
@@ -96,8 +96,8 @@ Vamos nos cadastrar para conseguirmos subir nossos códigos para um repositório
 Após o cadastro configuraremos nosso usuário no gitbash para definir a autoria das nossas modificações:
 Para adicionar usuário:
 ```
-git config --global user.name "Natalya Peixoto"
-git config --global user.email “natalya_peixoto@hotmail.com” 
+git config --global user.name "NOME USUARIO"
+git config --global user.email “nomeusuario@hotmail.com” 
 ```
 
 ```
@@ -106,8 +106,8 @@ git config --list
 
 Para remover usuário:
 ```
-git config --global --unset user.name "Natalya Peixoto"
-git config --global --unset user.email “natalya_peixoto@hotmail.com” 
+git config --global --unset user.name "NOME USUARIO"
+git config --global --unset user.email “nomeusuario@hotmail.com” 
 ```
 
 #### Começando com o Git
